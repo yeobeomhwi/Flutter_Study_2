@@ -4,7 +4,7 @@ import 'package:flutter_study2/clean_architecture_demo/domain/repositories/produ
 // Data Layer - Repository Implementations
 class ProductRepositoryImpl implements ProductRepository {
   @override
-    List<Product> getProduct() {
+  List<Product> getProduct() {
     // 실제로는 데이터베이스나 API에서 데이터를 가져올 것입니다
     return [
       Product(name: 'Laptop', price: 999.99),
