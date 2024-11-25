@@ -1,5 +1,5 @@
-import 'package:flutter_study2/clean_architecture_demo/domain/entities/user.dart';
-import 'package:flutter_study2/clean_architecture_demo/domain/repositories/user_repository.dart';
+import 'package:flutter_study2/Day-1/clean_architecture_demo/domain/entities/user.dart';
+import 'package:flutter_study2/Day-1/clean_architecture_demo/domain/repositories/user_repository.dart';
 
 // Data Layer - Repository Implementations
 class UserRepositoryImpl implements UserRepository {

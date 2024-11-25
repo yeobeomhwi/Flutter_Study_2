@@ -1,4 +1,4 @@
-import 'package:flutter_study2/clean_architecture_demo/domain/entities/product.dart';
+import 'package:flutter_study2/Day-1/clean_architecture_demo/domain/entities/product.dart';
 
 // Domain Layer - Repository Interfaces
 abstract interface class ProductRepository {
