@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import '../data/repositories/product_repository.dart';
-import '../domain/usecases/get_products_usecase.dart';
+import 'mvvm_demo_1/data/repositories/product_repository.dart';
+import 'mvvm_demo_1/domain/usecases/get_products_usecase.dart';
 import 'mvvm_demo_1/presentation/viewmodels/product_provider.dart';
 import 'mvvm_demo_1/presentation/views/product_page.dart';
 

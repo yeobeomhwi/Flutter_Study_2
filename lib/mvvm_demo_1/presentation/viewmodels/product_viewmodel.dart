@@ -1,6 +1,7 @@
 import 'package:flutter/foundation.dart';
-import '../../../domain/usecases/get_products_usecase.dart';
-import '../../models/product.dart';
+import '../../domain/models/product.dart';
+import '../../domain/usecases/get_products_usecase.dart';
+
 
 
 class ProductProvider extends ChangeNotifier {

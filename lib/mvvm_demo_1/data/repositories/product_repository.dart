@@ -1,4 +1,4 @@
-import '../../mvvm_demo_1/models/product.dart';
+import '../../domain/models/product.dart';
 
 class ProductRepository {
   Future<List<Product>> fetchProducts() async {

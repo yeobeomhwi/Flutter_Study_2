@@ -1,5 +1,6 @@
-import '../../models/product.dart';
-import '../../../data/repositories/product_repository.dart';
+
+import '../../data/repositories/product_repository.dart';
+import '../models/product.dart';
 
 class GetProductsUseCase {
   final ProductRepository repository;
