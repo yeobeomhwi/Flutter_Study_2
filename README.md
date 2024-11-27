@@ -1,16 +1,18 @@
-# flutter_study2
+# Flutter Study 2
 
-A new Flutter project.
+## Day-1
 
-## Getting Started
+- Clean Architecture
+- DI and Layer Separation
+- Interface and Mixin
 
-This project is a starting point for a Flutter application.
+## Day-2
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Event Channel
+- Method Channel 
+- Stream을 사용한 비동기 데이터 처리 -Stream_async.dart
+- RxDart를 사용한 반응형 프로그래밍 - BehaviorSubject
+- Stream 변환 연산자 - Stream_Transformation_Operator.dart
+- 비동기 상태 관리 - async_state.dart
+- 반응형 UI - Reactive UI.dart
+- 경고 대화 상자 호출 - Invoke the Alert dialog box.dart
